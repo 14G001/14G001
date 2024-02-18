@@ -1,4 +1,4 @@
-# You can see Iago´s projects and skills in a better way [here](https://iagomolinavazquez.com)
+# <p align="center">You can see Iago´s projects and skills in a better way in his portfolio: [iagomolinavazquez.com](https://iagomolinavazquez.com)</p>
 
 <a align="center" href="https://iagomolinavazquez.com"><img src="https://iagomolinavazquez.com/preview.png"></a>
 
