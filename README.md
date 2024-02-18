@@ -1,6 +1,6 @@
-# You can see Iago´s projects and skills in a better way here:
+# You can see Iago´s projects and skills in a better way [here](https://iagomolinavazquez.com)
 
-[<p align="center"> <img src="https://iagomolinavazquez.com/preview.png"> <p align="center">](https://iagomolinavazquez.com)
+<a align="center" href="https://iagomolinavazquez.com"><img src="https://iagomolinavazquez.com/preview.png"></a>
 
 
 <!-- Default:
